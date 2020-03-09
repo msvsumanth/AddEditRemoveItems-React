@@ -1,0 +1,42 @@
+.leftSide {
+  background-color: #c7c7c7;
+  height: 100vh;
+}
+
+.rightSide {
+  background-color: #e3e3e3;
+}
+
+.list-group-item {
+  background-color: #c7c7c7;
+  border: none;
+}
+.borderRound{
+  border-radius: 30px;
+  background: white;
+  padding: 30px;
+  width: 800px;
+  height: 210px;
+}
+.form-control{
+    width:50vh;
+}
+.iconButton{
+background-color: white;
+border: none;
+}
+.listItem {
+  color: #343a40!important;
+  height: 6vh;
+  padding-top: 1vh;
+  padding-left: 3vh;
+  padding-right: 2vh;
+  width: 53vh;
+  border-radius: 5px;
+  list-style-type:none
+}
+dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
